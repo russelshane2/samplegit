@@ -1,1 +1,2 @@
-# samplegit
+#MyGit
+This is my git
